@@ -1,4 +1,4 @@
-# B2cBackendKotlinDefault-Setting
+# DenoRestApiDefaultSetting
 ## Run
 
 ### Locally
