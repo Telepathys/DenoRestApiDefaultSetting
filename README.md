@@ -5,5 +5,5 @@
 
 
 ```bash
-deno run index.ts
+docker-compose up --build
 ```
